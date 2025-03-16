@@ -12,7 +12,7 @@
 - **Modded Discord:** [Revenge](https://github.com/revenge-mod) (Android & iOS) 📱
 - **Theme:** [PinkDiscord](https://raw.githubusercontent.com/axxelet/my-discord-stuff/refs/heads/main/PinkDiscord) ✨
 - **Custom Icons:** [Themes+](https://bunny.nexpid.xyz/themes-plus/)
-- **Extra:** [NexxUtils](https://bunny.nexpid.xyz/
+- **Extra:** [NexxUtils](https://bunny.nexpid.xyz/)
 
 
 ## 💫 Star History

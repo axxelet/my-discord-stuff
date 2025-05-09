@@ -4,8 +4,6 @@
   <a href="#about"><kbd> <br> 🌷 About <br> </kbd></a>&ensp;&ensp;
   <a href="#setup"><kbd> <br> 🔧 Setup <br> </kbd></a>&ensp;&ensp;
   <a href="#gallery"><kbd> <br> 🖼️ Gallery <br> </kbd></a>&ensp;&ensp;
-  <a href="https://github.com/ashish0kumar/windots/discussions"><kbd> <br> 💬 Discussions <br> </kbd></a>&ensp;&ensp;
-  <a href="#credits"><kbd> <br> 🎉 Credits <br> </kbd></a>&ensp;&ensp;
 </div>
 
 <br>
@@ -81,10 +79,6 @@ Welcome, this repo includes my custom discord client, theme, fonts, and soon my 
 ## 📌 TODO
 
 - [ ] 🧩 Add **plugins** 
-
-## 📢 Join the Discussion
-
-Got a question, idea, or a cool setup to share? Head over to [Discussions](https://github.com/axxelet/my-discord-stuff/discussions) and be part of the community!
 
 <hr>
 

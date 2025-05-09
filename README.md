@@ -34,7 +34,7 @@ Welcome, this repo includes my custom discord client, theme, fonts, and soon my 
 ## 🌸  Info
 
 - **Modded Discord:** [Revenge](https://github.com/revenge-mod) (Android & iOS) 📱
-- **Theme:** [PinkDiscord](https://raw.githubusercontent.com/axxelet/my-discord-stuff/refs/heads/main/PinkDiscord) ✨
+- **Theme:** [PinkDiscord](https://raw.githubusercontent.com/axxelet/my-discord-stuff/refs/heads/main/assets/PinkDiscord) ✨
 - **Font:** [Meloso](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Fonts/melosofont/meloso.json) ✨
 - **Custom Icons:** [Themes+](https://bunny.nexpid.xyz/themes-plus/)
 - **Extra:** [NexxUtils](https://bunny.nexpid.xyz/)
@@ -47,7 +47,7 @@ Welcome, this repo includes my custom discord client, theme, fonts, and soon my 
 
 ### 🎨 Discord Theme
 
-- Copy the theme's link from **[here](https://raw.githubusercontent.com/axxelet/my-discord-stuff/refs/heads/main/PinkDiscord)**
+- Copy the theme's link from **[here](https://raw.githubusercontent.com/axxelet/my-discord-stuff/refs/heads/main/assets/PinkDiscord)**
 - Open Settings → themes
 - Paste the link in there
 - Enable it
@@ -68,7 +68,7 @@ Welcome, this repo includes my custom discord client, theme, fonts, and soon my 
 
 | **Theme** |
 |-------------------------------------------------------|
-| ![](assets/unixporn.png) |
+| ![](assets/theme.png) |
 
 | **Font** |
 |-------------------------------------------------------|

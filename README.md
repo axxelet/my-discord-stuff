@@ -1,10 +1,8 @@
 <h1 align="center">🌾 my discord stuff</h1>
 
-<div align="center">
-  <a href="#about"><kbd> <br> 🌷 About <br> </kbd></a>&ensp;&ensp;
-  <a href="#setup"><kbd> <br> 🔧 Setup <br> </kbd></a>&ensp;&ensp;
-  <a href="#gallery"><kbd> <br> 🖼️ Gallery <br> </kbd></a>&ensp;&ensp;
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
 
 <br>
 

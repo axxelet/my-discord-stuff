@@ -70,7 +70,7 @@ Welcome, this repo includes my custom discord client, theme, fonts, and soon my 
 
 | **Font** |
 |-------------------------------------------------------|
-| ![](assets/vscode.png) |
+| ![](assets/meloso.png) |
 
 <hr>
 
